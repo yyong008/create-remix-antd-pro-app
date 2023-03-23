@@ -1,4 +1,7 @@
+// type
 import type { MetaFunction } from "@remix-run/node";
+
+// core
 import {
   Links,
   LiveReload,
